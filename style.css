@@ -1,4 +1,5 @@
 .orange-bg{
+    
     background-color: #fceae8;
     border-radius: 20px;
 
@@ -10,3 +11,9 @@
     color:rgba(220, 20, 60, 0.774)
 }
 .container{margin-bottom: 80px;}
+.catone, .cattwo, .catthree{padding: 10px 40px;border-radius: 10px;}
+.catone{background-color: orangered;}
+.cattwo{background-color: orchid;}
+.catthree{background-color: cornflowerblue;}
+.categories h1{color:white ;}
+.categories img{width: 150px;}
